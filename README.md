@@ -114,7 +114,7 @@
 <!-- <a href="https://hashnode.com/@brolinh" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://codepen.com/brolinh" target="_blank">
+<a href="https://codepen.io/Linh-Z" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/22687976/brolinh" target="_blank">
